@@ -1,4 +1,4 @@
-# TriviaGame 
+# CSS Grid and Text Shadow Practice 
 
 <h1 align="center">
   <br>
@@ -7,29 +7,13 @@
 
 
 <h2 align="center">
-This Trivia game uses JavaScript for the logic and jQuery to manipulate HTML. 
+Practice exercise for a CSS grid layout using perspective to give a 3D effect with JavaScript to be sure the styled items alternate correctly as the number of items on each row changes. 
 </h2>
 <br>
 
-
-# Project Mandatories
-* Create a trivia form with multiple choice or true/false options.
-
-* Player will have a limited amount of time to finish the quiz. 
-
-* The game ends when the time runs out. 
-
-* The page will reveal the number of questions that players answer correctly and incorrectly.
-
-* Don't let the player pick more than one answer per question.
-
-* Include a countdown timer.
-
-
 ## Technologies Used
 - Javascript 
- - JQuery
  - HTML
  - CSS
 
-To visit deployed application, go to https://southerngirl13.github.io/TriviaGame/
+To visit deployed application, go to https://southerngirl13.github.io/photoflipcard/
