@@ -7,7 +7,7 @@
 
 
 <h2 align="center">
-Practice exercise for a CSS grid layout using perspective to give a 3D effect with JavaScript to be sure the styled items alternate correctly as the number of items on each row changes. 
+Practice exercise for CSS grid & perspective layout and font shadowing. JavaScript is used to make sure items alternate correctly as the number of items on each row changes.
 </h2>
 <br>
 
