@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
 # TriviaGame 
 
 <h1 align="center">
   <br>
- <img src="images/mmfinal.jpg"> width="60%">
+ <img src="images/mmfinal.jpg" width="60%">
 </h1>
 
 
