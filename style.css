@@ -47,7 +47,7 @@ h3 {
 p {
   margin: 0 30px 0 30px;
   font-size: 20px;
-  font-family: 'Cutive Mono', serif;
+  font-family: 'Cutive Mono', serif; */
   font-weight: 100px;
 }
 
@@ -72,7 +72,8 @@ p {
 
 .odd > .desc{
   /* background-color: #c20133; */
-  background-color: #aeb9bf;
+  /* background-color: #aeb9bf; */
+  background-color: #c20133;
   z-index: 4;
   width: 112%;
   margin-left: -10.5%;
