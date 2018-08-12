@@ -1,39 +1,36 @@
 ## Welcome to GitHub Pages
+# TriviaGame 
 
-A CSS Grid layout using CSS perspective to give a 3D effect. JavaScript is used to make sure the item styling alternates correctly as the number of items on each row changes.
+<h1 align="center">
+  <br>
+ <img src="images/mmfinal.jpg"> width="60%">
+</h1>
 
-You can use the [editor on GitHub](https://github.com/Southerngirl13/photoflipcard/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2 align="center">
+This Trivia game uses JavaScript for the logic and jQuery to manipulate HTML. 
+</h2>
+<br>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Project Mandatories
+* Create a trivia form with multiple choice or true/false options.
 
-```markdown
-Syntax highlighted code block
+* Player will have a limited amount of time to finish the quiz. 
 
-# Header 1
-## Header 2
-### Header 3
+* The game ends when the time runs out. 
 
-- Bulleted
-- List
+* The page will reveal the number of questions that players answer correctly and incorrectly.
 
-1. Numbered
-2. List
+* Don't let the player pick more than one answer per question.
 
-**Bold** and _Italic_ and `Code` text
+* Include a countdown timer.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Technologies Used
+- Javascript 
+ - JQuery
+ - HTML
+ - CSS
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Southerngirl13/photoflipcard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To visit deployed application, go to https://southerngirl13.github.io/TriviaGame/
