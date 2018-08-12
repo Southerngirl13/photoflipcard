@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
- <img src="images/ghfinal.jpg" width="60%">
+ <img src="images/ghfinal.jpg" width="80%">
 </h1>
 
 
