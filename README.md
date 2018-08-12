@@ -7,7 +7,7 @@
 
 
 <h2 align="center">
-Practice exercise for CSS grid & perspective layout, as well as font shadowing. JavaScript is used to make sure items alternate correctly as the number of items <br>on each row changes.
+Practice exercise for CSS grid & perspective layout, and font shadowing. JavaScript is used to make sure items alternate correctly as the number of items <br>on each row changes.
 </h2>
 <br>
 
