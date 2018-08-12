@@ -1,9 +1,11 @@
 
 body {
   margin: 50px;
-  color: #323031;
-  background-color: #A3A866;
-  background-color: #2a9ec1;
+  /* color: #323031; */
+  color: white;
+  /* background-color: #A3A866; */
+  /* background-color: #2a9ec1; */ 
+ background-color:  #c20133;
   font-family: 'Lato', sans-serif;
 }
 h2, h3 {
@@ -55,7 +57,8 @@ p {
 }
 
 .odd > .desc{
-  background-color: #db3a34;
+  /* background-color: #c20133; */
+  background-color: #aeb9bf;
   z-index: 4;
   width: 112%;
   margin-left: -10.5%;
@@ -72,7 +75,7 @@ p {
 .even > .desc{
   z-index: 2;
   /* background-color: #5bba6f; */
-  background-color: #5bba6f;
+  background-color:#515860;
   width: 112%;
   transform: perspective(1000px) rotateY(30deg);
   grid-column: 2 / 4;
@@ -102,9 +105,9 @@ img {
   width: 100%;
 }
 
-h1 {
-  font-family: 'Tangerine', serif;
+/* h1 {
+  font-family: 'Cutive Mono', serif;
   font-size: 100px;
   text-shadow: 4px 4px 4px slategrey;
-  color: black;
-}
+  color: black; */
+/* } */
