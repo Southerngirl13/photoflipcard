@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+A CSS Grid layout using CSS perspective to give a 3D effect. JavaScript is used to make sure the item styling alternates correctly as the number of items on each row changes.
+
 You can use the [editor on GitHub](https://github.com/Southerngirl13/photoflipcard/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
